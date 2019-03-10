@@ -1,6 +1,6 @@
 === Mp3 Quran Translations In English by TrueMuslims.Net ===
 Contributors: truemuslims.net
-Donate link: http://www.mp3quran.net
+Donate link: http://www.truemuslims.net
 Tags: Mp3Quran, Mp3 Quran, Mp3 Quran Translation in English, meaning of the Quran in English, audio, audio files, audio transaltion, MP3, Quran Playlist, TrueMuslims.net
 Requires at least: 3.0
 Tested up to: 4.1.1
